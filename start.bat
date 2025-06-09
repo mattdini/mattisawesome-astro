@@ -1,0 +1,2 @@
+pmpm install
+pnpm dev
